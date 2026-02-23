@@ -1,6 +1,6 @@
 # PostgreSQL Cheatsheet
 
-Each student will complete the Description and Example sections for the SQL clause assigned to them.
+Each developer will complete the Description and Example sections for the SQL clause assigned to them.
 
 For each clause:
 
