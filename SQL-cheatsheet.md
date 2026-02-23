@@ -134,3 +134,5 @@ CREATE TABLE friends (
 ```sql
 
 ```
+
+### I love SQL! 
