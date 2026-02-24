@@ -53,7 +53,9 @@ VALUES ('Asia Adams', '2013-06-21');
 **Example:**
 
 ```sql
-
+UPDATE friends
+SET name = 'Babz'
+WHERE friend_id = 1;
 ```
 
 ### 5. `DELETE FROM` — assigned to Haine
